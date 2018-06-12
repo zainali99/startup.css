@@ -1,0 +1,11 @@
+/*
+STARTUP.CSS
+File created by Zain Ali (https://zainali.altervista.org)
+The "Hello World" of Any Projects for The Web.
+2018 (C)
+*/
+* {margin:0;padding:0;}
+a {text-decoration:none;font-weight:bold;text-transform:uppercase;color:#276cff}
+a:hover {color:#42da1e}
+a:visited {color:#666;}
+body {font:11px/1.5em Arial, Arial, sans-serif;color:#333;}
