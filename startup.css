@@ -5,9 +5,19 @@ The "Hello World" of Any Projects for The Web.
 2018 (C)
 */
 * {margin:0;padding:0;}
-a {text-decoration:none;font-weight:bold;text-transform:uppercase;color:#276cff}
-a:hover {color:#42da1e}
+a {text-decoration:none;font-weight:bold;text-transform:uppercase;color: #00b359;}
+a:hover {color: #28ce00;}
 a:visited {color:#666;}
 body {font:11px/1.5em Arial, Arial, sans-serif;color:#333;}
-.container {width:960px;background-color:#fff;border:1px solid #CCC;margin: 60px auto;}
+.container {max-width:90%;width:960px;background-color:#fff;border:1px solid #CCC;margin: 60px auto;}
 ul {list-style-type: none;}
+img {max-width:100%}
+.centerplease {text-align:center;}
+.makespace {padding:10px}
+.btn {vertical-align: middle;cursor:pointer;background:#333;color:#fff;font-weight:bold;padding:4px 8px;border-radius:3px;border:1px solid #000;outline:none;}
+.btn:active {box-shadow:0 0 0 2px rgba(0,0,0,0.2)}
+.forminput {padding:  4px 8px;border-radius: 3px;border: 1px solid #999;vertical-align: middle;}
+.primary {background: #25b125;border-color: #009863;}
+.primary:active {box-shadow: 0 0 0 2px #6bff709c;}
+.sx300{width:300px}
+.linksbox div {display:inline-block;margin:0 10px;}
